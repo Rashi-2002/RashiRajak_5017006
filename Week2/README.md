@@ -36,4 +36,8 @@ This repository contains PL/SQL scripts for various exercises related to databas
    
    ```sql
    @Schema_Creation_and_Sample_Data.sql
+2.**Execute Exercises:**
+
+-For each exercise, execute the corresponding SQL script to test the functionality. Each script is designed to demonstrate specific PL/SQL, stored procedures, functions, triggers, or cursor operations.
+
 
