@@ -212,7 +212,7 @@ Document REST APIs using Swagger and Springdoc.
 ---
 
 ## Author
-- **Your Name**
+- **Rashi Rajak**
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
